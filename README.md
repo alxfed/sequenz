@@ -1,2 +1,2 @@
-# Package name
-Package Name
+# Sequenz
+Sequenz - the term used by Gerhard Karl Erich Gentzen.
